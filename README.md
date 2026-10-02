@@ -222,25 +222,43 @@ Applying concepts through practical projects, APIs, authentication, and database
 
 ---
 
+
+---
+
 <div align="center">
 
+  <!-- Neon animated footer -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=3000&pause=1200&color=00E5FF&background=0D1117&center=true&vCenter=true&width=650&height=32&lines=THANKS+FOR+VISITING+MY+PROFILE!+%E2%9C%A8;LET%27S+BUILD+SOMETHING+GREAT!+%F0%9F%9A%80;HAVE+AN+IDEA%3F+LET%27S+CONNECT!+%F0%9F%8C%90"
-    alt="Animated thank you message"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3000&pause=1000&color=00E5FF&background=0D1117&center=true&vCenter=true&width=850&height=65&lines=THANKS+FOR+EXPLORING+MY+PROFILE+%E2%9C%A8;LET%27S+BUILD+SOMETHING+EXTRAORDINARY+%F0%9F%9A%80;CODE.+CREATE.+COLLABORATE.+GROW.+%F0%9F%92%BB;HAVE+AN+IDEA%3F+LET%27S+CONNECT+%F0%9F%8C%90"
+    alt="Thanks for exploring my profile. Let's connect and build something extraordinary."
+    width="100%"
   />
 
   <br/>
 
   <a href="mailto:ronak03p@gmail.com">
-    <img src="https://img.shields.io/badge/CONTACT-00E5FF?style=flat-square&logo=gmail&logoColor=black" alt="Contact me"/>
+    <img
+      src="https://img.shields.io/badge/LET'S%20CONNECT-00E5FF?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117"
+      alt="Let's connect by email"
+    />
   </a>
+  &nbsp;
   <a href="https://github.com/ronnak56?tab=repositories">
-    <img src="https://img.shields.io/badge/PROJECTS-A78BFA?style=flat-square&logo=github&logoColor=white" alt="My projects"/>
+    <img
+      src="https://img.shields.io/badge/EXPLORE%20PROJECTS-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"
+      alt="Explore my projects"
+    />
   </a>
 
-  <br/><br/>
 
-  <sub>💙 Code • Create • Collaborate • Grow</sub>
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:3B82F6,100:A78BFA&height=100&section=footer"
+    width="100%"
+    alt="Cyan blue and purple animated-style wave footer"
+  />
+
+  <sub>Made with 💙, curiosity, and lots of code.</sub>
 
 </div>
 
