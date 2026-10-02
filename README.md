@@ -61,7 +61,7 @@ I'm a Computer Science and Engineering student passionate about software develop
 <td width="38%" align="center" valign="middle">
 
 <img
-  src="./about-sec-video.gif"
+  src="./tenor.gif"
   width="100%"
   alt="Animated coder working on a laptop"
 />
