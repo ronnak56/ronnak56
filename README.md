@@ -95,6 +95,7 @@ I'm a Computer Science and Engineering student passionate about software develop
 
 
 
+
 ##  Coding Profiles & Problem Solving
 
 <div align="center">
@@ -109,7 +110,7 @@ I'm a Computer Science and Engineering student passionate about software develop
   <img
     src="https://leetcard.jacoblin.cool/ronakprajapati?theme=dark&font=Fira%20Code&ext=contest"
     width="100%"
-    alt="LeetCode statistics, problems solved, difficulty breakdown and contest rating"
+    alt="LeetCode live statistics"
   />
 </a>
 
@@ -117,7 +118,7 @@ I'm a Computer Science and Engineering student passionate about software develop
 
 <a href="https://leetcode.com/u/ronakprajapati/">
   <img
-    src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+    src="https://img.shields.io/badge/VIEW%20PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
     alt="View LeetCode profile"
   />
 </a>
@@ -129,9 +130,9 @@ I'm a Computer Science and Engineering student passionate about software develop
 
 <a href="https://www.geeksforgeeks.org/profile/ronakg59p?tab=activity">
   <img
-    src="https://gfgstatscard.vercel.app/ronakg59p?theme=dark"
+    src="https://gfg-stats.tashif.codes/ronakg59p/stats/svg"
     width="100%"
-    alt="GeeksforGeeks coding statistics and problems solved"
+    alt="GeeksforGeeks profile statistics"
   />
 </a>
 
@@ -139,7 +140,7 @@ I'm a Computer Science and Engineering student passionate about software develop
 
 <a href="https://www.geeksforgeeks.org/profile/ronakg59p?tab=activity">
   <img
-    src="https://img.shields.io/badge/View%20GeeksforGeeks%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
+    src="https://img.shields.io/badge/VIEW%20PROFILE-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
     alt="View GeeksforGeeks profile"
   />
 </a>
@@ -149,6 +150,7 @@ I'm a Computer Science and Engineering student passionate about software develop
 </table>
 
 </div>
+
 
 
 
