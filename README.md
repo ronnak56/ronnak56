@@ -1,20 +1,11 @@
 
 <div align="center">
 
-  <!-- Cinematic Animated Banner -->
-  
-<div align="center">
+  <!-- Cinematic Animated Banner with Your Name -->
   <img
     src="./ronak-cinematic-banner-name.gif"
     width="100%"
     alt="Ronak Prajapati animated neon banner"
-  />
-</div>
-
-  <img
-    src="./ronak-cinematic-banner.gif"
-    width="100%"
-    alt="Ronak Prajapati cinematic animated banner"
   />
 
   <br/>
@@ -40,7 +31,6 @@
 
   <br/><br/>
 
-  <!-- GitHub Profile Views -->
   <img
     src="https://komarev.com/ghpvc/?username=ronnak56&style=flat-square&color=00D9FF&label=PROFILE+VIEWS"
     alt="GitHub profile views"
