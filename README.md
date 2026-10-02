@@ -1,5 +1,4 @@
 
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123047,100:00B4D8&height=210&section=header&text=RONAK%20PRAJAPATI&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=MERN%20Developer%20%7C%20DSA%20%7C%20Software%20Engineering&descSize=15&descAlignY=56&animation=fadeIn" width="100%" alt="Profile banner"/>
@@ -95,7 +94,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ronnak56/ronnak56/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ronnak56/ronnak56/output/github-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/ronnak56/ronnak56/output/github-snake.svg" width="100%" alt="Animated GitHub contribution snake"/>
+  <img src="https://raw.githubusercontent.com/ronnak56/ronnak56/output/github-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
 </picture>
 
 </div>
@@ -107,7 +106,7 @@
 <div align="center">
 
 <a href="https://leetcode.com/u/ronakprajapati/">
-<img src="https://leetcard.jacoblin.cool/ronakprajapati?theme=dark&font=Fira%20Code&ext=contest" width="90%" alt="Live LeetCode statistics and contest information"/>
+<img src="https://leetcard.jacoblin.cool/ronakprajapati?theme=dark&font=Fira%20Code&ext=contest" width="90%" alt="LeetCode statistics and contest information"/>
 </a>
 
 <br/><br/>
@@ -177,32 +176,6 @@ Building practical applications to demonstrate development skills.
 </table>
 
 </div>
-
----
-
-## 💬 Random Developer Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer quote"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🤝 Let's Build Something Awesome!
-
-<a href="mailto:ronak03p@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-00B4D8?style=for-the-badge&logo=gmail&logoColor=white" alt="Say hello"/></a>
-
-<br/><br/>
-
-**⭐ Thanks for visiting my profile!**
-
-*Keep learning. Keep building. Keep solving.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:123047,100:0D1117&height=100&section=footer" width="100%" alt="Footer banner"/>
 
 </div>
 
