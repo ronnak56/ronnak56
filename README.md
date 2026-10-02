@@ -94,60 +94,61 @@ I'm a Computer Science and Engineering student passionate about software develop
 
 
 
-## 🧩 LeetCode | Problem Solving
+
+##  Coding Profiles & Problem Solving
+
+<div align="center">
 
 <table>
 <tr>
-<td width="70%" valign="top" align="center">
+<td width="50%" align="center" valign="top">
+
+### 🟡 LeetCode
 
 <a href="https://leetcode.com/u/ronakprajapati/">
   <img
     src="https://leetcard.jacoblin.cool/ronakprajapati?theme=dark&font=Fira%20Code&ext=contest"
     width="100%"
-    alt="LeetCode statistics and contest rating"
+    alt="LeetCode statistics, problems solved, difficulty breakdown and contest rating"
+  />
+</a>
+
+<br/>
+
+<a href="https://leetcode.com/u/ronakprajapati/">
+  <img
+    src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+    alt="View LeetCode profile"
   />
 </a>
 
 </td>
-<td width="30%" valign="middle" align="center">
+<td width="50%" align="center" valign="top">
 
-<a href="https://leetcode.com/u/ronakprajapati/">
+### 🟢 GeeksforGeeks
+
+<a href="https://www.geeksforgeeks.org/profile/ronakg59p?tab=activity">
   <img
-    src="https://img.shields.io/badge/PROFILE-56.9K%20VIEWS-0A84FF?style=for-the-badge&logo=leetcode&logoColor=white"
-    alt="LeetCode profile views"
+    src="https://gfgstatscard.vercel.app/ronakg59p?theme=dark"
+    width="100%"
+    alt="GeeksforGeeks coding statistics and problems solved"
   />
 </a>
 
-<br/><br/>
+<br/>
 
-<a href="https://leetcode.com/u/ronakprajapati/">
+<a href="https://www.geeksforgeeks.org/profile/ronakg59p?tab=activity">
   <img
-    src="https://img.shields.io/badge/SOLUTIONS-30-00BFA6?style=for-the-badge&logo=leetcode&logoColor=white"
-    alt="LeetCode solutions"
-  />
-</a>
-
-<br/><br/>
-
-<a href="https://leetcode.com/u/ronakprajapati/">
-  <img
-    src="https://img.shields.io/badge/REPUTATION-344-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
-    alt="LeetCode reputation"
-  />
-</a>
-
-<br/><br/>
-
-<a href="https://leetcode.com/u/ronakprajapati/">
-  <img
-    src="https://img.shields.io/badge/OPEN-PROFILE-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white"
-    alt="Open LeetCode profile"
+    src="https://img.shields.io/badge/View%20GeeksforGeeks%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
+    alt="View GeeksforGeeks profile"
   />
 </a>
 
 </td>
 </tr>
 </table>
+
+</div>
 
 
 
