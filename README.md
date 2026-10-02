@@ -98,49 +98,59 @@ I'm a Computer Science and Engineering student passionate about software develop
 
 ##  Coding Profiles & Problem Solving
 
+
+## 🏆 Coding Profiles & Problem Solving
+
 <div align="center">
 
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 🟡 LeetCode
+<h3>
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="22" alt="LeetCode logo" />
+  LeetCode
+</h3>
 
 <a href="https://leetcode.com/u/ronakprajapati/">
   <img
     src="https://leetcard.jacoblin.cool/ronakprajapati?theme=dark&font=Fira%20Code&ext=contest"
     width="100%"
-    alt="LeetCode live statistics"
+    alt="LeetCode problems solved, difficulty breakdown, ranking and contest rating"
   />
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://leetcode.com/u/ronakprajapati/">
   <img
-    src="https://img.shields.io/badge/VIEW%20PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+    src="https://img.shields.io/badge/View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
     alt="View LeetCode profile"
   />
 </a>
 
 </td>
+
 <td width="50%" align="center" valign="top">
 
-### 🟢 GeeksforGeeks
+<h3>
+  <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="22" alt="GeeksforGeeks logo" />
+  GeeksforGeeks
+</h3>
 
 <a href="https://www.geeksforgeeks.org/profile/ronakg59p?tab=activity">
   <img
-    src="https://gfg-stats.tashif.codes/ronakg59p/stats/svg"
+    src="https://gfgstatscard.vercel.app/ronakg59p?theme=dark"
     width="100%"
-    alt="GeeksforGeeks profile statistics"
+    alt="GeeksforGeeks coding statistics"
   />
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://www.geeksforgeeks.org/profile/ronakg59p?tab=activity">
   <img
-    src="https://img.shields.io/badge/VIEW%20PROFILE-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
+    src="https://img.shields.io/badge/View%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
     alt="View GeeksforGeeks profile"
   />
 </a>
