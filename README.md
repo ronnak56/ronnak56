@@ -93,15 +93,28 @@ I'm a Computer Science and Engineering student passionate about software develop
 
 
 
+
 ## 🧩 LeetCode | Problem Solving
 
-<div align="center">
+<table>
+<tr>
+<td width="70%" valign="top" align="center">
 
 <a href="https://leetcode.com/u/ronakprajapati/">
   <img
-    src="https://leetcard.jacoblin.cool/ronakprajapati?theme=dark&font=Fira%20Code&ext=contest&width=700"
-    width="700"
-    alt="LeetCode statistics, difficulty breakdown, ranking, contest rating and rating history"
+    src="https://leetcard.jacoblin.cool/ronakprajapati?theme=dark&font=Fira%20Code&ext=contest"
+    width="100%"
+    alt="LeetCode statistics and contest rating"
+  />
+</a>
+
+</td>
+<td width="30%" valign="middle" align="center">
+
+<a href="https://leetcode.com/u/ronakprajapati/">
+  <img
+    src="https://img.shields.io/badge/PROFILE-56.9K%20VIEWS-0A84FF?style=for-the-badge&logo=leetcode&logoColor=white"
+    alt="LeetCode profile views"
   />
 </a>
 
@@ -109,12 +122,32 @@ I'm a Computer Science and Engineering student passionate about software develop
 
 <a href="https://leetcode.com/u/ronakprajapati/">
   <img
-    src="https://img.shields.io/badge/VIEW%20FULL%20LEETCODE%20PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
-    alt="View full LeetCode profile"
+    src="https://img.shields.io/badge/SOLUTIONS-30-00BFA6?style=for-the-badge&logo=leetcode&logoColor=white"
+    alt="LeetCode solutions"
   />
 </a>
 
-</div>
+<br/><br/>
+
+<a href="https://leetcode.com/u/ronakprajapati/">
+  <img
+    src="https://img.shields.io/badge/REPUTATION-344-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+    alt="LeetCode reputation"
+  />
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/ronakprajapati/">
+  <img
+    src="https://img.shields.io/badge/OPEN-PROFILE-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white"
+    alt="Open LeetCode profile"
+  />
+</a>
+
+</td>
+</tr>
+</table>
 
 
 
