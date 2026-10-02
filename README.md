@@ -60,7 +60,11 @@ I'm a Computer Science and Engineering student passionate about software develop
 </td>
 <td width="38%" align="center" valign="middle">
 
-<a href="./WhatsApp%20Video%202026-10-02%20at%202.43.05%20PM.mp4">
+<img
+  src="./about-sec-video.gif"
+  width="100%"
+  alt="Animated coder working on a laptop"
+/>
   
 </a>
 </td>
