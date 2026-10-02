@@ -99,7 +99,6 @@ I'm a Computer Science and Engineering student passionate about software develop
 ##  Coding Profiles & Problem Solving
 
 
-## 🏆 Coding Profiles & Problem Solving
 
 <div align="center">
 
@@ -108,7 +107,7 @@ I'm a Computer Science and Engineering student passionate about software develop
 <td width="50%" align="center" valign="top">
 
 <h3>
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="22" alt="LeetCode logo" />
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="22" alt="LeetCode logo"/>
   LeetCode
 </h3>
 
@@ -124,7 +123,7 @@ I'm a Computer Science and Engineering student passionate about software develop
 
 <a href="https://leetcode.com/u/ronakprajapati/">
   <img
-    src="https://img.shields.io/badge/View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+    src="https://img.shields.io/badge/VIEW%20PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
     alt="View LeetCode profile"
   />
 </a>
@@ -134,7 +133,7 @@ I'm a Computer Science and Engineering student passionate about software develop
 <td width="50%" align="center" valign="top">
 
 <h3>
-  <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="22" alt="GeeksforGeeks logo" />
+  <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="22" alt="GeeksforGeeks logo"/>
   GeeksforGeeks
 </h3>
 
@@ -148,9 +147,30 @@ I'm a Computer Science and Engineering student passionate about software develop
 
 <br/><br/>
 
+<table>
+<tr>
+<td align="center">
+  <img src="https://img.shields.io/badge/Problems%20Solved-388-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="388 problems solved"/>
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/Coding%20Score-1573-00A86B?style=for-the-badge" alt="Coding score 1573"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+  <img src="https://img.shields.io/badge/Longest%20Streak-56%20Days-FFA116?style=for-the-badge" alt="Longest streak 56 days"/>
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/POTDs%20Solved-311-6366F1?style=for-the-badge" alt="311 POTDs solved"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
 <a href="https://www.geeksforgeeks.org/profile/ronakg59p?tab=activity">
   <img
-    src="https://img.shields.io/badge/View%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
+    src="https://img.shields.io/badge/VIEW%20PROFILE-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
     alt="View GeeksforGeeks profile"
   />
 </a>
