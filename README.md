@@ -48,12 +48,12 @@
 
 I'm a Computer Science and Engineering student passionate about software development, algorithmic problem-solving, and building practical applications.
 
-- 🎓 B.Tech CSE — 2027 batch
-- 💻 Aspiring Software Engineer
-- 🌐 Focused on MERN Stack Development
-- 🧠 Practising Data Structures and Algorithms in C++
-- 🚀 Building projects to strengthen software engineering fundamentals
-- 📈 Continuously improving code quality and problem-solving skills
+-  B.Tech CSE — 2027 batch
+-  Aspiring Software Engineer
+-  Focused on MERN Stack Development
+-  Practising Data Structures and Algorithms in C++
+-  Building projects to strengthen software engineering fundamentals
+-  Continuously improving code quality and problem-solving skills
 
 **My approach:** Understand the problem, design the solution, write clean code, and keep improving.
 
@@ -211,7 +211,7 @@ Applying concepts through practical projects, APIs, authentication, and database
 
 ---
 
-## 🤝 Let's Connect and Build Something Meaningful
+##  Let's Connect and Build Something Meaningful
 
 <div align="center">
 
