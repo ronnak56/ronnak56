@@ -1,10 +1,6 @@
 
 <div align="center">
 
-  <!-- Cinematic Animated Banner -->
-
-<div align="center">
-
   <img
     src="./ronak-cinematic-banner.gif"
     width="100%"
