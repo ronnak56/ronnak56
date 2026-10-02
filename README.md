@@ -218,25 +218,15 @@ Applying concepts through practical projects, APIs, authentication, and database
 
 ##  Let's Connect and Build Something Meaningful
 
-<div align="center">
-
-<a href="mailto:ronak03p@gmail.com">
-  <img src="https://img.shields.io/badge/Let's%20Connect-00B4D8?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me"/>
-</a>
-
-<br/><br/>
-
-<sub>Designed with passion for coding, continuous learning, and building useful software.</sub>
-
-</div>
 
 ---
 
 <div align="center">
 
+  <!-- Neon animated footer -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FFFFFF&background=FF1B78&center=true&vCenter=true&width=800&height=65&lines=WANT+TO+CONNECT+WITH+ME%3F+%F0%9F%8C%90;THANKS+FOR+VISITING+MY+PROFILE!+%E2%9C%A8;LET'S+BUILD+SOMETHING+GREAT+TOGETHER!+%F0%9F%9A%80"
-    alt="Want to connect? Thanks for visiting my profile!"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3000&pause=1000&color=00E5FF&background=0D1117&center=true&vCenter=true&width=850&height=65&lines=THANKS+FOR+EXPLORING+MY+PROFILE+%E2%9C%A8;LET%27S+BUILD+SOMETHING+EXTRAORDINARY+%F0%9F%9A%80;CODE.+CREATE.+COLLABORATE.+GROW.+%F0%9F%92%BB;HAVE+AN+IDEA%3F+LET%27S+CONNECT+%F0%9F%8C%90"
+    alt="Thanks for exploring my profile. Let's connect and build something extraordinary."
     width="100%"
   />
 
@@ -244,24 +234,26 @@ Applying concepts through practical projects, APIs, authentication, and database
 
   <a href="mailto:ronak03p@gmail.com">
     <img
-      src="https://img.shields.io/badge/LET'S%20CONNECT-Email%20Me-00D9FF?style=for-the-badge&logo=gmail&logoColor=white"
+      src="https://img.shields.io/badge/LET'S%20CONNECT-00E5FF?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117"
       alt="Let's connect by email"
     />
   </a>
-
-  <a href="https://github.com/ronnak56">
+  &nbsp;
+  <a href="https://github.com/ronnak56?tab=repositories">
     <img
-      src="https://img.shields.io/badge/EXPLORE-MY%20PROJECTS-8A2BE2?style=for-the-badge&logo=github&logoColor=white"
-      alt="Explore my GitHub projects"
+      src="https://img.shields.io/badge/EXPLORE%20PROJECTS-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"
+      alt="Explore my projects"
     />
   </a>
 
   <br/><br/>
 
-  <sub>💙 Thanks for stopping by! Keep coding, keep growing, and keep building.</sub>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:3B82F6,100:A78BFA&height=100&section=footer"
+    width="100%"
+    alt="Cyan blue and purple animated-style wave footer"
+  />
+
+  <sub>Made with 💙, curiosity, and lots of code.</sub>
 
 </div>
-
-
-
-
