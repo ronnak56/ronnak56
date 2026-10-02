@@ -1,35 +1,53 @@
 
 <div align="center">
 
-
-<div align="center">
+  <!-- Cinematic Animated Banner -->
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:082F49,65:075985,100:00D9FF&height=220&section=header&text=RONAK%20PRAJAPATI&fontSize=42&fontColor=FFFFFF&fontAlignY=40&animation=twinkling&desc=SOFTWARE%20DEVELOPER%20%7C%20MERN%20STACK&descSize=14&descAlignY=62"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:082F49,65:075985,100:00D9FF&height=230&section=header&text=RONAK%20PRAJAPATI&fontSize=44&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=SOFTWARE%20DEVELOPER%20%7C%20MERN%20STACK%20%7C%20DSA&descSize=14&descAlignY=58"
     width="100%"
-    alt="Ronak Prajapati cinematic banner"
+    alt="Ronak Prajapati GitHub banner"
   />
+
+  <!-- Animated Introduction -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1300&color=00D9FF&center=true&vCenter=true&width=650&height=45&lines=Ronak+Prajapati;Building+Full-Stack+Web+Applications;DSA+%7C+C%2B%2B+%7C+MERN+Stack;Learn.+Build.+Improve.+Repeat."
+    alt="Animated developer introduction"
+  />
+
+  <br/><br/>
+
+  <!-- Contact and Coding Profiles -->
+  <a href="mailto:ronak03p@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-Contact-00B4D8?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+  <a href="https://leetcode.com/u/ronakprajapati/">
+    <img
+      src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+      alt="LeetCode"
+    />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/ronakg59p?tab=activity">
+    <img
+      src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
+      alt="GeeksforGeeks"
+    />
+  </a>
+
+  <br/><br/>
+
+  <!-- GitHub Profile Views -->
+  <img
+    src="https://komarev.com/ghpvc/?username=ronnak56&style=flat-square&color=00D9FF&label=PROFILE+VIEWS"
+    alt="GitHub profile views"
+  />
+
 </div>
 
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1300&color=00D9FF&center=true&vCenter=true&width=650&height=45&lines=Ronak+Prajapati;Building+Full-Stack+Web+Applications;DSA+%7C+C%2B%2B+%7C+MERN+Stack;Learn.+Build.+Improve.+Repeat." alt="Animated developer introduction"/>
-
-<br/>
-
-<a href="mailto:ronak03p@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-00B4D8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://leetcode.com/u/ronakprajapati/">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-<a href="https://www.geeksforgeeks.org/profile/ronakg59p?tab=activity">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=ronnak56&style=flat-square&color=00B4D8&label=PROFILE+VIEWS" alt="GitHub profile views"/>
-
-</div>
 
 ---
 
