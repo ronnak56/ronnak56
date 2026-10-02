@@ -65,7 +65,6 @@ I'm a Computer Science and Engineering student passionate about software develop
   width="100%"
   alt="Colorful neon coding animation"
 />
-
 </td>
 </tr>
 </table>
