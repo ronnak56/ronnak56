@@ -1,21 +1,24 @@
 
 <div align="center">
 
+  <!-- Cinematic Animated Banner -->
   <img
     src="./ronak-cinematic-banner.gif"
     width="100%"
     alt="Ronak Prajapati cinematic animated banner"
   />
 
-  <br/><br/>
+  <br/>
 
+  <!-- Animated Introduction -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1300&color=00D9FF&center=true&vCenter=true&width=650&height=45&lines=Building+Full-Stack+Web+Applications;DSA+%7C+C%2B%2B+%7C+MERN+Stack;Learn.+Build.+Improve.+Repeat."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1300&color=00D9FF&center=true&vCenter=true&width=650&height=45&lines=Software+Developer;Building+Full-Stack+Web+Applications;DSA+%7C+C%2B%2B+%7C+MERN+Stack;Learn.+Build.+Improve.+Repeat."
     alt="Animated developer introduction"
   />
 
   <br/><br/>
 
+  <!-- Contact and Coding Profiles -->
   <a href="mailto:ronak03p@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-00B4D8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -24,39 +27,6 @@
   </a>
   <a href="https://www.geeksforgeeks.org/profile/ronakg59p?tab=activity">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
-
-</div>
-
----
-
-
-  <!-- Animated Introduction -->
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1300&color=00D9FF&center=true&vCenter=true&width=650&height=45&lines=Ronak+Prajapati;Building+Full-Stack+Web+Applications;DSA+%7C+C%2B%2B+%7C+MERN+Stack;Learn.+Build.+Improve.+Repeat."
-    alt="Animated developer introduction"
-  />
-
-  <br/><br/>
-
-  <!-- Contact and Coding Profiles -->
-  <a href="mailto:ronak03p@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-Contact-00B4D8?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
-  <a href="https://leetcode.com/u/ronakprajapati/">
-    <img
-      src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
-      alt="LeetCode"
-    />
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/ronakg59p?tab=activity">
-    <img
-      src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
-      alt="GeeksforGeeks"
-    />
   </a>
 
   <br/><br/>
@@ -68,11 +38,6 @@
   />
 
 </div>
-
----
-
-
-
 
 ---
 
@@ -151,7 +116,7 @@ I'm a Computer Science and Engineering student passionate about software develop
   <img
     src="https://leetcard.jacoblin.cool/ronakprajapati?theme=dark&font=Fira%20Code&ext=contest"
     width="620"
-    alt="LeetCode profile statistics, problems solved, difficulty breakdown, contest rating and ranking"
+    alt="LeetCode profile statistics, problems solved, difficulty breakdown and contest rating"
   />
 </a>
 
@@ -177,7 +142,11 @@ I'm a Computer Science and Engineering student passionate about software develop
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=ronnak56&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FFA116&currStreakLabel=00D9FF" alt="GitHub contribution streak statistics"/>
+<img
+  width="70%"
+  src="https://streak-stats.demolab.com/?user=ronnak56&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FFA116&currStreakLabel=00D9FF"
+  alt="GitHub contribution streak statistics"
+/>
 
 </div>
 
@@ -190,9 +159,19 @@ I'm a Computer Science and Engineering student passionate about software develop
 <p>Every contribution is another step forward.</p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ronnak56/ronnak56/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ronnak56/ronnak56/output/github-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/ronnak56/ronnak56/output/github-snake.svg" alt="Animated snake following my GitHub contribution graph" width="100%"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ronnak56/ronnak56/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ronnak56/ronnak56/output/github-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/ronnak56/ronnak56/output/github-snake.svg"
+    alt="Animated snake following my GitHub contribution graph"
+    width="100%"
+  />
 </picture>
 
 </div>
@@ -233,9 +212,9 @@ Applying concepts through practical projects, APIs, authentication, and database
 
 ---
 
-<div align="center">
+## 🤝 Let's Connect and Build Something Meaningful
 
-### 🤝 Let's Connect and Build Something Meaningful
+<div align="center">
 
 <a href="mailto:ronak03p@gmail.com">
   <img src="https://img.shields.io/badge/Let's%20Connect-00B4D8?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me"/>
@@ -246,5 +225,6 @@ Applying concepts through practical projects, APIs, authentication, and database
 <sub>Designed with passion for coding, continuous learning, and building useful software.</sub>
 
 </div>
+
 
 
