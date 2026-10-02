@@ -220,8 +220,6 @@ Applying concepts through practical projects, APIs, authentication, and database
 
 
 
----
-
 
 ---
 
@@ -229,7 +227,7 @@ Applying concepts through practical projects, APIs, authentication, and database
 
   <!-- Neon animated footer -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3000&pause=1000&color=00E5FF&background=0D1117&center=true&vCenter=true&width=850&height=65&lines=THANKS+FOR+EXPLORING+MY+PROFILE+%E2%9C%A8;LET%27S+BUILD+SOMETHING+EXTRAORDINARY+%F0%9F%9A%80;CODE.+CREATE.+COLLABORATE.+GROW.+%F0%9F%92%BB;HAVE+AN+IDEA%3F+LET%27S+CONNECT+%F0%9F%8C%90"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3000&pause=1000&color=00E5FF&background=0D1117&center=true&vCenter=true&width=850&height=65&lines=THANKS+FOR+EXPLORING+MY+PROFILE;LET%27S+BUILD+SOMETHING+EXTRAORDINARY;CODE.+CREATE.+COLLABORATE.+GROW;HAVE+AN+IDEA%3F+LET%27S+CONNECT"
     alt="Thanks for exploring my profile. Let's connect and build something extraordinary."
     width="100%"
   />
@@ -250,15 +248,14 @@ Applying concepts through practical projects, APIs, authentication, and database
     />
   </a>
 
-
+  <br/>
 
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:3B82F6,100:A78BFA&height=100&section=footer"
     width="100%"
-    alt="Cyan blue and purple animated-style wave footer"
+    alt="Cyan blue and purple wave footer"
   />
 
-  <sub>Made with 💙, curiosity, and lots of code.</sub>
+  <sub>Made with curiosity and lots of code.</sub>
 
 </div>
-
