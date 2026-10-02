@@ -92,29 +92,29 @@ I'm a Computer Science and Engineering student passionate about software develop
 
 
 
+
 ## 🧩 LeetCode | Problem Solving
 
 <div align="center">
 
 <a href="https://leetcode.com/u/ronakprajapati/">
   <img
-    src="https://leetcard.jacoblin.cool/ronakprajapati?theme=dark&font=Fira%20Code&ext=contest"
-    width="500"
-    alt="LeetCode statistics card"
+    src="https://leetcard.jacoblin.cool/ronakprajapati?theme=dark&font=Fira%20Code&ext=contest&width=700"
+    width="700"
+    alt="LeetCode statistics, difficulty breakdown, ranking, contest rating and rating history"
   />
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://leetcode.com/u/ronakprajapati/">
   <img
-    src="https://img.shields.io/badge/VIEW%20LEETCODE%20PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
-    alt="View LeetCode profile"
+    src="https://img.shields.io/badge/VIEW%20FULL%20LEETCODE%20PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+    alt="View full LeetCode profile"
   />
 </a>
 
 </div>
-
 
 
 
