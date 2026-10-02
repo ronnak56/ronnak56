@@ -219,6 +219,7 @@ Applying concepts through practical projects, APIs, authentication, and database
 ##  Let's Connect and Build Something Meaningful
 
 
+
 ---
 
 <div align="center">
@@ -243,13 +244,3 @@ Applying concepts through practical projects, APIs, authentication, and database
 
 </div>
 
-
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:3B82F6,100:A78BFA&height=100&section=footer"
-    width="100%"
-    alt="Cyan blue and purple animated-style wave footer"
-  />
-
-  <sub>Made with 💙, curiosity, and lots of code.</sub>
-
-</div>
