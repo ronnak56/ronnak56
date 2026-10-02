@@ -1,7 +1,15 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:123047,100:00B4D8&height=210&section=header&text=RONAK%20PRAJAPATI&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPMENT%20%7C%20MERN%20STACK&descSize=14&descAlignY=58&animation=twinkling" width="100%" alt="Ronak Prajapati animated profile banner"/>
+
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:082F49,65:075985,100:00D9FF&height=220&section=header&text=RONAK%20PRAJAPATI&fontSize=42&fontColor=FFFFFF&fontAlignY=40&animation=twinkling&desc=SOFTWARE%20DEVELOPER%20%7C%20MERN%20STACK&descSize=14&descAlignY=62"
+    width="100%"
+    alt="Ronak Prajapati cinematic banner"
+  />
+</div>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1300&color=00D9FF&center=true&vCenter=true&width=650&height=45&lines=Ronak+Prajapati;Building+Full-Stack+Web+Applications;DSA+%7C+C%2B%2B+%7C+MERN+Stack;Learn.+Build.+Improve.+Repeat." alt="Animated developer introduction"/>
 
