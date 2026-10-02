@@ -2,6 +2,15 @@
 <div align="center">
 
   <!-- Cinematic Animated Banner -->
+  
+<div align="center">
+  <img
+    src="./ronak-cinematic-banner-name.gif"
+    width="100%"
+    alt="Ronak Prajapati animated neon banner"
+  />
+</div>
+
   <img
     src="./ronak-cinematic-banner.gif"
     width="100%"
