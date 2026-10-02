@@ -60,9 +60,9 @@ I'm a Computer Science and Engineering student passionate about software develop
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-     width="100%"
-     alt="Software developer coding animation"/>
+<a href="./WhatsApp%20Video%202026-10-02%20at%202.43.05%20PM.mp4">
+  
+</a>
 </td>
 </tr>
 </table>
