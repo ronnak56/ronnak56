@@ -63,7 +63,7 @@ I'm a Computer Science and Engineering student passionate about software develop
 <img
   src="./tenor.gif"
   width="100%"
-  alt="Animated coder working on a laptop"
+  alt="Neon programmer working at a computer"
 />
   
 </a>
