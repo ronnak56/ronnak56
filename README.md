@@ -61,9 +61,9 @@ I'm a Computer Science and Engineering student passionate about software develop
 <td width="38%" align="center" valign="middle">
 
 <img
-  src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
+  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
   width="100%"
-  alt="Animated developer coding"
+  alt="Animated programmer coding"
 />
 
 </td>
