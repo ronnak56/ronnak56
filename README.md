@@ -8,7 +8,7 @@
 <br/>
 
 <a href="mailto:ronak03p@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-00B4D8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/ronnak56"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
 <a href="https://leetcode.com/u/ronakprajapati/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 <a href="https://auth.geeksforgeeks.org/user/ronakg59p"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
 
@@ -28,12 +28,12 @@
 
 I'm a Computer Science and Engineering student passionate about software development, algorithmic problem-solving, and building practical applications.
 
-- 🎓 B.Tech CSE — 2027 batch
-- 💻 Aspiring Software Engineer
-- 🌐 Focused on MERN Stack Development
-- 🧠 Practising Data Structures and Algorithms in C++
-- 🚀 Developing projects to strengthen engineering fundamentals
-- 📈 Continuously improving code quality and problem-solving skills
+-  B.Tech CSE — 2027 batch
+-  Aspiring Software Engineer
+-  Focused on MERN Stack Development
+-  Practising Data Structures and Algorithms in C++
+-  Developing projects to strengthen engineering fundamentals
+-  Continuously improving code quality and problem-solving skills
 
 **My approach:** Understand the problem, design the solution, write clean code, and keep improving.
 
