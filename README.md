@@ -230,5 +230,38 @@ Applying concepts through practical projects, APIs, authentication, and database
 
 </div>
 
+---
+
+<div align="center">
+
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FFFFFF&background=FF1B78&center=true&vCenter=true&width=800&height=65&lines=WANT+TO+CONNECT+WITH+ME%3F+%F0%9F%8C%90;THANKS+FOR+VISITING+MY+PROFILE!+%E2%9C%A8;LET'S+BUILD+SOMETHING+GREAT+TOGETHER!+%F0%9F%9A%80"
+    alt="Want to connect? Thanks for visiting my profile!"
+    width="100%"
+  />
+
+  <br/><br/>
+
+  <a href="mailto:ronak03p@gmail.com">
+    <img
+      src="https://img.shields.io/badge/LET'S%20CONNECT-Email%20Me-00D9FF?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Let's connect by email"
+    />
+  </a>
+
+  <a href="https://github.com/ronnak56">
+    <img
+      src="https://img.shields.io/badge/EXPLORE-MY%20PROJECTS-8A2BE2?style=for-the-badge&logo=github&logoColor=white"
+      alt="Explore my GitHub projects"
+    />
+  </a>
+
+  <br/><br/>
+
+  <sub>💙 Thanks for stopping by! Keep coding, keep growing, and keep building.</sub>
+
+</div>
+
+
 
 
