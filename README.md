@@ -142,12 +142,7 @@ I'm a Computer Science and Engineering student passionate about software develop
 
 <br/>
 
-### 🐍 Contribution Snake
 
-<div align="center">
-
-
-## 🐍 Watch My Contributions Get Eaten!
 
 
 ## 🐍 Watch My Contributions Get Eaten!
