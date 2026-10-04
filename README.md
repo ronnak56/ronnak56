@@ -31,10 +31,12 @@
 
   <br/><br/>
 
+ <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=ronnak56&style=flat-square&color=00D9FF&label=PROFILE+VIEWS"
-    alt="GitHub profile views"
+    src="https://komarev.com/ghpvc/?username=ronnak56&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile Views"
   />
+</p>
 
 </div>
 
